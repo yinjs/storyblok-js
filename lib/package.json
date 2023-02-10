@@ -27,7 +27,7 @@
     "prepublishOnly": "npm run build && cp ../README.md ./"
   },
   "dependencies": {
-    "storyblok-js-client": "^5.4.1"
+    "storyblok-js-client": "git@github.com:yinjs/storyblok-js-client.git#v5.4.1-patch"
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
